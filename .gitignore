@@ -19,3 +19,5 @@ jupyterNotebooks/
 test_and_trials.py
 
 *.pk
+
+*.pickle
